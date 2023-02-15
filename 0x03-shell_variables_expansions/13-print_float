@@ -1,2 +1,2 @@
 #!/bin/bash
-NUM={1..9}{1..9} | echo $NUM
+printf '%.2f\n' $NUM
